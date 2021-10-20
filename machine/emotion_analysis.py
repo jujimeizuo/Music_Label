@@ -1,9 +1,9 @@
 import aip
 
 def emo() :
-    client_appId = '25004504'
-    client_apiKey = '3TFg3faCWVBiCy8eSQ93PoEz'
-    client_secretKey = 'F6rDKNQhwmUNwMXZBuyGN52Zh5p0GQC3'
+    client_appId = '******'
+    client_apiKey = '******'
+    client_secretKey = '******'
 
     lyrics = ''
 
