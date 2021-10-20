@@ -28,8 +28,8 @@ def query() :
     ssl._create_default_https_context = ssl._create_unverified_context
 
     #填写百度控制台中相关开通了“音频文件转写”接口的应用的的API_KEY及SECRET_KEY
-    API_KEY = 'uiVWpKGEHuQudcQR188GgtQM'
-    SECRET_KEY = 'aZ6MjfskDMeRIM3RB3xoGnHDjTnmlNsC'
+    API_KEY = '******'
+    SECRET_KEY = '******'
 
 
     """  获取请求TOKEN start 通过开通音频文件转写接口的百度应用的API_KEY及SECRET_KEY获取请求token"""
