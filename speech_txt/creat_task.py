@@ -31,8 +31,8 @@ def creat() :
     ssl._create_default_https_context = ssl._create_unverified_context
 
     #填写百度控制台中相关开通了“音频文件转写”接口的应用的的API_KEY及SECRET_KEY
-    API_KEY = 'uiVWpKGEHuQudcQR188GgtQM'
-    SECRET_KEY = 'aZ6MjfskDMeRIM3RB3xoGnHDjTnmlNsC'
+    API_KEY = '******'
+    SECRET_KEY = '******'
 
 
     """  获取请求TOKEN start 通过开通音频文件转写接口的百度应用的API_KEY及SECRET_KEY获取请求token"""
@@ -102,7 +102,7 @@ def creat() :
             "rate": 16000       #音频采样率，支持16000采样率，音频格式转化可通过开源ffmpeg工具（https://ai.baidu.com/ai-doc/SPEECH/7k38lxpwf）或音频处理软件
         }
 
-        # token = {"access_token":"24.19fd462ac988cb2d1cdef56fcb4b568a.2592000.1579244003.282335-11778379"}
+        # token = {"access_token":"******"}
 
         token = {"access_token":fetch_token()}
 
