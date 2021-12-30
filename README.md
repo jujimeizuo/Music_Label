@@ -2,6 +2,7 @@
 	<strong> Music_label </strong>
 </p>
 
+
 <p align="center">
   <a> <img src="https://img.shields.io/badge/python-3.0%2B-brightgreen"> </a>
   <a> <img src="https://img.shields.io/badge/PyQt5.0-success-brightgreen"> </a>
