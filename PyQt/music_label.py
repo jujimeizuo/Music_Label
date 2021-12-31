@@ -15,7 +15,6 @@ from speech_txt import creat_task
 import qtawesome as qta
 import sys
 
-
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
