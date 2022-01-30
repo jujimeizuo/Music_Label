@@ -6,7 +6,6 @@ import time
 from machine import  emotion_analysis
 def query() :
     IS_PY3 = sys.version_info.major == 3
-
     if IS_PY3:
         from urllib.request import urlopen
         from urllib.request import Request
