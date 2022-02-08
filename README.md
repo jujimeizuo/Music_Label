@@ -20,6 +20,7 @@ Baidu Python Demo [点击下载](https://platform.bj.bcebos.com/sdk/asr/speech_p
 
 百度账号！
 
+
 ## 1.1 账号的注册登录
 
 ![img](https://cdn.nlark.com/yuque/0/2021/png/22670381/1633756858569-65611f40-8e0b-4c7f-b486-20b6112afd1e.png)
