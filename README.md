@@ -11,7 +11,6 @@
 
 # 音频文件转写
 
-
 Baidu Python Demo [点击下载](https://platform.bj.bcebos.com/sdk/asr/speech_python_demo.zip)
 
 (该demo为百度自己写的，可以将其规整一下。)
